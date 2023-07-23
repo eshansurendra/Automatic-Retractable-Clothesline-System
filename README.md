@@ -1,6 +1,6 @@
-# clothesline-system
+# Clothesline System with Automated Rain Detection - Arduino Project
 
-Clothesline System with Automated Rain Detection - Arduino Project
+
 
 Clothesline System
 
