@@ -58,6 +58,15 @@ Visit our [ElectroMavericks Systems](https://www.electromavericks.systems/) webs
 
 ### Enclosure Design
 
-![Enclosure](design/SolidWorksFiles/Images/Enclousure.jpg)
+#### Enclosure
 
-![Enclosure 2](path/to/your/appendices/appendix5.png)
+![Enclosure 1](design/SolidWorksFiles/Images/Enclousure.jpg)
+
+![Enclosure 2](design/SolidWorksFiles/Images/EnclosedCover.jpg)
+
+#### Sensor Panel
+
+![Panel 1](design/SolidWorksFiles/Images/SensorPanel(2).jpg)
+
+![Panel 2](design/SolidWorksFiles/Images/SensorPanel.jpg)
+
