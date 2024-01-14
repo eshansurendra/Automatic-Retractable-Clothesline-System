@@ -24,10 +24,38 @@ The Automatic Retractable Clothesline System (ARCS) is an Arduino-based project 
 1. Hang clothes on the clothesline as usual.
 2. The system will autonomously retract the line during unfavorable weather conditions.
 
-## Remote Monitoring
+## Remote Monitoring and Control
 
-- Access real-time data, including temperature, humidity, and rain status, through the [Thingspeak web interface](https://thingspeak.com/).
-- Monitor the system remotely using the Thingspeak mobile app.
+### Thingspeak Visualization
+
+- Access real-time data, including temperature, humidity, and rain status
+
+![Thingspeak Visualization](design/other/Thingspeak.png)
+
+Check out the real-time data visualization of your ARCS system on Thingspeak. Visit [Thingspeak](https://thingspeak.com/channels/2225714) for detailed analytics and monitoring.
+
+### Mobile App for Remote Control
+
+ARCS comes with a dedicated mobile app that allows you to control and monitor your Automatic Retractable Clothesline System from anywhere. The mobile app is available on both [iOS](#) and [Android](#) platforms.
+
+#### Features:
+
+- **Remote Control:** Start, stop, or customize the drying process remotely.
+- **Real-time Monitoring:** Monitor the status of your clothesline system, including temperature, humidity, and rain detection.
+- **Notification Alerts:** Receive instant alerts on your mobile device for important events such as rain detection or system malfunctions.
+
+#### Installation:
+
+1. **iOS:** Download the app from the [App Store](#).
+2. **Android:** Download the app from [Google Play](#).
+
+#### Usage:
+
+1. Launch the ARCS mobile app on your device.
+2. Log in using your ARCS system credentials.
+3. Enjoy convenient remote control and monitoring of your clothesline system.
+
+![Mobile App Screenshots](design/other/App.png)
 
 ## Team Members - ElectroMavericks Team
 
