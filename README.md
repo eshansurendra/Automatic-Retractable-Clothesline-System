@@ -50,14 +50,14 @@ Visit our [ElectroMavericks Systems](https://www.electromavericks.systems/) webs
 
 #### PCB Layout
 
-![PCB Layout](path/to/your/appendices/appendix2.png)
+![PCB Layout](design/AltiumPCBFiles/Images/PCBLayout.jpg)
 
 #### PCB 3D View
 
-![PCB 3D View](path/to/your/appendices/appendix3.png)
+![PCB 3D View](design/AltiumPCBFiles/Images/PCB3Dview.jpg)
 
 ### Enclosure Design
 
-![Enclosure 1](path/to/your/appendices/appendix4.png)
+![Enclosure](design/SolidWorksFiles/Images/Enclousure.jpg)
 
 ![Enclosure 2](path/to/your/appendices/appendix5.png)
