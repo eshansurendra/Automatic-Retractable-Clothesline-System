@@ -38,16 +38,26 @@ This project is proudly developed by the ElectroMavericks Team:
 - **Nayanthara J.N.P**
 - **Surendra S.A.J.E**
 
+## More Information
+
+Visit our [ElectroMavericks Systems](https://www.electromavericks.systems/) website for more details about the Automatic Retractable Clothesline System (ARCS).
+
 ### PCB Design
 
 #### Schematic Diagram
 
-See [Appendix 1 – PCB Schematic](path/to/your/appendices/appendix1.png).
+![PCB Schematic](design/AltiumPCBFiles/Images/PCBschematic.png)
 
 #### PCB Layout
 
-See [Appendix 2 – PCB Layout](path/to/your/appendices/appendix2.png) and [Appendix 3 – PCB 3D View](path/to/your/appendices/appendix3.png).
+![PCB Layout](path/to/your/appendices/appendix2.png)
+
+#### PCB 3D View
+
+![PCB 3D View](path/to/your/appendices/appendix3.png)
 
 ### Enclosure Design
 
-See [Appendix 4 – Enclosure 1](path/to/your/appendices/appendix4.png) and [Appendix 5 – Enclosure 2](path/to/your/appendices/appendix5.png).
+![Enclosure 1](path/to/your/appendices/appendix4.png)
+
+![Enclosure 2](path/to/your/appendices/appendix5.png)
