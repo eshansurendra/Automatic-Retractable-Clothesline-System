@@ -1,8 +1,8 @@
-# Clothesline System with Automated Rain Detection - Arduino Project
+# Automatic Retractable Clothesline System (ARCS) 🌐🧺
 
 ## Introduction
 
-The Clothesline System with Automated Rain Detection is an Arduino-based project designed to simplify the process of drying clothes outdoors. By incorporating various sensors and a stepper motor, the system can automatically retract the clothesline in response to rain or adverse weather conditions.
+The Automatic Retractable Clothesline System (ARCS) is an Arduino-based project designed to simplify the process of drying clothes outdoors. By incorporating various sensors and a stepper motor, the system can automatically retract the clothesline in response to rain or adverse weather conditions.
 
 ## Features
 
