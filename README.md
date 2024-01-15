@@ -36,7 +36,7 @@ Check out the real-time data visualization of your ARCS system on Thingspeak. Vi
 
 ### Mobile App for Remote Control
 
-ARCS comes with a dedicated mobile app that allows you to control and monitor your Automatic Retractable Clothesline System from anywhere. The mobile app is available on both [iOS](#) and [Android](#) platforms.
+ARCS comes with a dedicated mobile app that allows you to control and monitor your Automatic Retractable Clothesline System from anywhere. The mobile app is available on [Android](#) platform.
 
 #### Features:
 
@@ -46,8 +46,7 @@ ARCS comes with a dedicated mobile app that allows you to control and monitor yo
 
 #### Installation:
 
-1. **iOS:** Download the app from the [App Store](#).
-2. **Android:** Download the app from [Google Play](#).
+ -**Android:** Download the app from [Releases Section](../../releases/tag/v1.0.0).
 
 #### Usage:
 
