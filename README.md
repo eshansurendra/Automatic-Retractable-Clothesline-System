@@ -60,10 +60,10 @@ ARCS comes with a dedicated mobile app that allows you to control and monitor yo
 
 This project is proudly developed by the ElectroMavericks Team:
 
-- **Prabodha K.P.K.A**
-- **Vidmal H.V.P**
-- **Nayanthara J.N.P**
-- **Surendra S.A.J.E**
+- [**Prabodha K.P.K.A**](https://github.com/AkhilaPrabodha)
+- [**Vidmal H.V.P**](https://github.com/pulinduvidmal)
+- [**Nayanthara J.N.P**](https://github.com/Navini11)
+- [**Surendra S.A.J.E**](https://github.com/eshansurendra)
 
 ## More Information
 
