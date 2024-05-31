@@ -93,6 +93,12 @@ Visit our [ElectroMavericks Systems](https://www.electromavericks.systems/) webs
 
 #### Sensor Panel
 
+
+![Arduino](https://img.shields.io/badge/ArduinoIDE-2.3.2-blue)
+![Altium](https://img.shields.io/badge/Altium-24.5.2-orange)
+![SOLIDWORKS Education](https://img.shields.io/badge/SOLIDWORKS-Education-yellow)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-Standard-blue)
+
 ![Panel 1](design/SolidWorksFiles/Images/SensorPanel(2).jpg)
 
 ![Panel 2](design/SolidWorksFiles/Images/SensorPanel.jpg)
