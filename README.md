@@ -98,13 +98,21 @@ Visit our [ElectroMavericks Systems](https://www.electromavericks.systems/) webs
 
 #### Sensor Panel
 
-
-![Arduino](https://img.shields.io/badge/ArduinoIDE-2.3.2-blue)
-![Altium](https://img.shields.io/badge/Altium-24.5.2-orange)
-![SOLIDWORKS Education](https://img.shields.io/badge/SOLIDWORKS-Education-yellow)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-Standard-blue)
-
 ![Panel 1](design/SolidWorksFiles/Images/SensorPanel(2).jpg)
 
 ![Panel 2](design/SolidWorksFiles/Images/SensorPanel.jpg)
+
+
+## Contributing
+
+Contributions are welcome! 
+
+- **Bug Fixes:** If you find any bugs or issues, feel free to create an issue or submit a pull request.
+- **Feature Enhancements:** If you have ideas for new features or improvements, don't hesitate to share them.
+
+Feel free to reach out with any questions or suggestions!
+
+# License
+
+This project is licensed under the [MIT License](LICENSE).
 
